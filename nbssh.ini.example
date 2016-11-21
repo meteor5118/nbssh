@@ -1,0 +1,5 @@
+[default]
+hosts=1.1.1.1,2.2.2.2
+port=22
+username=raymond
+password=123456
